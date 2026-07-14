@@ -1,0 +1,277 @@
+{
+  "library": "synth-scifi",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/synth-scifi",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/synth-scifi-opus-48",
+  "branch": "main",
+  "fileCount": 21,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-opus-48/main/",
+  "files": [
+    {
+      "file": "A2.opus",
+      "name": "A2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-opus-48/main/A2.opus",
+      "size": 50405,
+      "note": "A2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A3.opus",
+      "name": "A3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-opus-48/main/A3.opus",
+      "size": 51718,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A4.opus",
+      "name": "A4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-opus-48/main/A4.opus",
+      "size": 70209,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A5.opus",
+      "name": "A5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-opus-48/main/A5.opus",
+      "size": 85957,
+      "note": "A5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A6.opus",
+      "name": "A6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-opus-48/main/A6.opus",
+      "size": 87167,
+      "note": "A6",
+      "midiNote": 93,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C2.opus",
+      "name": "C2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-opus-48/main/C2.opus",
+      "size": 52339,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C3.opus",
+      "name": "C3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-opus-48/main/C3.opus",
+      "size": 48369,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C4.opus",
+      "name": "C4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-opus-48/main/C4.opus",
+      "size": 58025,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5.opus",
+      "name": "C5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-opus-48/main/C5.opus",
+      "size": 72891,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C6.opus",
+      "name": "C6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-opus-48/main/C6.opus",
+      "size": 86861,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C7.opus",
+      "name": "C7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-opus-48/main/C7.opus",
+      "size": 89467,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds2.opus",
+      "name": "Ds2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-opus-48/main/Ds2.opus",
+      "size": 55713,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds3.opus",
+      "name": "Ds3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-opus-48/main/Ds3.opus",
+      "size": 48743,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds4.opus",
+      "name": "Ds4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-opus-48/main/Ds4.opus",
+      "size": 61245,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds5.opus",
+      "name": "Ds5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-opus-48/main/Ds5.opus",
+      "size": 77444,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds6.opus",
+      "name": "Ds6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-opus-48/main/Ds6.opus",
+      "size": 88989,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs2.opus",
+      "name": "Fs2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-opus-48/main/Fs2.opus",
+      "size": 53419,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs3.opus",
+      "name": "Fs3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-opus-48/main/Fs3.opus",
+      "size": 49992,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs4.opus",
+      "name": "Fs4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-opus-48/main/Fs4.opus",
+      "size": 67610,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs5.opus",
+      "name": "Fs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-opus-48/main/Fs5.opus",
+      "size": 81997,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs6.opus",
+      "name": "Fs6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-opus-48/main/Fs6.opus",
+      "size": 88040,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "36": [
+      "C2.opus"
+    ],
+    "45": [
+      "A2.opus"
+    ],
+    "48": [
+      "C3.opus"
+    ],
+    "57": [
+      "A3.opus"
+    ],
+    "60": [
+      "C4.opus"
+    ],
+    "69": [
+      "A4.opus"
+    ],
+    "72": [
+      "C5.opus"
+    ],
+    "81": [
+      "A5.opus"
+    ],
+    "84": [
+      "C6.opus"
+    ],
+    "93": [
+      "A6.opus"
+    ],
+    "96": [
+      "C7.opus"
+    ]
+  }
+}
